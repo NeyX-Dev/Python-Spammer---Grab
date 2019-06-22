@@ -1,4 +1,4 @@
-# Python-Spammer---Grab
+# Python-Spammer Grab
 
 วิธีใช้
 
